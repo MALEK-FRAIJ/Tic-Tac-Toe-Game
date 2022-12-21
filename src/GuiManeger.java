@@ -1,9 +1,9 @@
 import javax.swing.UIManager;
 import javax.swing.UIManager.LookAndFeelInfo;
 
-public class GuiManeger {
+public class GuiManager {
 
-	public GuiManeger() {
+	public GuiManager() {
 		
 		try {
 
